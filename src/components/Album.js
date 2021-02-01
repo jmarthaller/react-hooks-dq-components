@@ -1,5 +1,6 @@
 import React from "react";
 
+
 function Album({ name, image, genre }) {
   return (
     <div className="card">
